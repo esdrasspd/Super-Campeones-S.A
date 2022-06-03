@@ -1,0 +1,12 @@
+C:\Users\serho\source\repos\Super Campeones S.A\x64\Debug\Super Campeones S.A.exe.config
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\Super Campeones S.A.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\Super Campeones S.A.exe.config
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\SuperCampeonesSA.MainForm.resources
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\Super Campeones S.A.vcxproj.GenerateResource.cache
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\Super Campeones S.A.vcxproj.CopyComplete
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\SuperCampeonesSA.Encuentros1.resources
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\SuperCampeonesSA.Inicio.resources
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\SuperCampeonesSA.Selecciones1.resources
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\SuperCampeonesSA.Modificar_selecciones.resources
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\SuperCampeonesSA.Jugadores.resources
+C:\Users\serho\source\repos\Super Campeones S.A\Super Campeones S.A\x64\Debug\Super Campeones S.A.vcxproj.AssemblyReference.cache
